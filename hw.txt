@@ -1,0 +1,1 @@
+WAP to create math class and store all math related function
